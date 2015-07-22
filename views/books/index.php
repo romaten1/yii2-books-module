@@ -57,7 +57,7 @@ $this->title = 'Книги';
                         return Html::button( '<span class="glyphicon glyphicon-eye-open"</span>',
                             [
                                 'value' => Url::to( [ 'view', 'id' => $model->id ] ),
-                                'title' => 'Updating Company',
+                                'title' => 'Просмотр книги',
                                 'class' => 'showModalButton btn btn-sm btn-success'
                             ] );
                     },

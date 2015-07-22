@@ -1,10 +1,10 @@
 <?php
 
-namespace app\modules\books;
+namespace romaten1\books\books;
 
 class Module extends \yii\base\Module
 {
-    public $controllerNamespace = 'app\modules\books\controllers';
+    public $controllerNamespace = 'romaten1\books\controllers';
 
     public $layout = 'main.php';
 

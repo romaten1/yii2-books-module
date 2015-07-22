@@ -3,8 +3,8 @@
 namespace romaten1\books\controllers;
 
 use Yii;
-use app\modules\books\models\Books;
-use app\modules\books\models\BooksSearch;
+use romaten1\books\models\Books;
+use romaten1\books\models\BooksSearch;
 use yii\filters\AccessControl;
 use yii\helpers\Url;
 use yii\web\Controller;
