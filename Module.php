@@ -1,6 +1,6 @@
 <?php
 
-namespace romaten1\books\books;
+namespace romaten1\books;
 
 class Module extends \yii\base\Module
 {
