@@ -1,6 +1,6 @@
 <?php
 
-use app\modules\books\models\Authors;
+use romaten1\books\models\Authors;
 use yii\helpers\Html;
 use yii\widgets\ActiveForm;
 
